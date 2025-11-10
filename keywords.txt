@@ -1,0 +1,619 @@
+soccer
+football
+futbol
+fútbol
+futebol
+calcio
+fussball
+voetbal
+pelota
+match
+goal
+assist
+striker
+forward
+midfielder
+defender
+goalkeeper
+keeper
+clean sheet
+penalty
+penalties
+free kick
+corner kick
+offside
+VAR
+referee
+yellow card
+red card
+own goal
+injury time
+stoppage time
+extra time
+shootout
+transfer
+loan deal
+contract
+release clause
+buyout clause
+training
+press conference
+substitution
+formation
+4-3-3
+4-2-3-1
+3-5-2
+tactics
+manager
+coach
+assistant coach
+technical area
+bench
+lineup
+squad
+roster
+captain
+fans
+supporters
+stadium
+home game
+away game
+derby
+cup final
+championship
+league
+tournament
+promotion
+relegation
+draw
+victory
+win
+loss
+tie
+aggregate
+fixture
+kickoff
+matchday
+highlights
+player of the match
+man of the match
+MOTM
+fifa
+uefa
+caf
+afc
+concacaf
+conmebol
+premier league
+epl
+la liga
+laliga
+serie a
+bundesliga
+ligue 1
+mls
+champions league
+ucl
+europa league
+conference league
+world cup
+fifa world cup
+club world cup
+uefa super cup
+europa conference league
+uefa nations league
+afcon
+asian cup
+copa america
+gold cup
+nations league
+ballon d'or
+golden boot
+assist leader
+top scorer
+goal tally
+record breaker
+milestone
+legend
+icon
+rivalry
+classic
+el clasico
+manchester derby
+north london derby
+merseyside derby
+rome derby
+milan derby
+istanbul derby
+cup tie
+drawn game
+aggregate score
+two-legged tie
+goal difference
+replay
+relegation battle
+title race
+promotion push
+top four race
+bottom three
+table standings
+fixture list
+schedule
+kickoff time
+injury
+injured
+hamstring
+ankle injury
+ACL
+recovery
+rehab
+fitness
+training session
+warm up
+drill
+friendly
+international break
+call-up
+national team
+international duty
+qualifiers
+group stage
+round of 16
+quarter final
+semi final
+final
+trophy
+cup
+medal
+celebration
+crowd
+chant
+supporter
+ultras
+terrace
+away fans
+home fans
+banner
+flag
+flare
+stadium atmosphere
+full house
+sell out
+transfer window
+deadline day
+rumor
+agent
+medical
+official announcement
+signing
+deal done
+confirmed
+club statement
+transfer saga
+negotiation
+bid
+offer
+fee
+add-ons
+release clause
+loan with option
+loan with obligation
+contract extension
+renewal
+expiring contract
+free agent
+released
+training ground
+training camp
+pre-season
+post-season
+friendly match
+testimonial
+press conference
+interview
+quotes
+statement
+reaction
+post-match
+pre-match
+preview
+analysis
+player stats
+team stats
+possession
+passing accuracy
+expected goals
+xG
+shot accuracy
+tackle
+interception
+cross
+header
+dribble
+dribbling
+nutmeg
+meg
+through ball
+long shot
+chip
+lob
+finesse
+curl
+volley
+half volley
+first touch
+ball control
+build-up
+counter attack
+pressing
+high press
+gegenpress
+park the bus
+positional play
+low block
+mid block
+tiki-taka
+direct play
+set piece
+dead ball
+corner routine
+penalty shootout
+spot kick
+saves
+top bins
+worldie
+screamer
+wonder goal
+long ranger
+tap-in
+header goal
+brace
+hat trick
+four goals
+five goals
+assist record
+clean sheet streak
+stoppage
+VAR decision
+controversy
+referee review
+officiating
+ref watch
+linesman
+assistant referee
+fourth official
+match official
+fifa referee
+disciplinary
+ban
+suspension
+fine
+appeal
+hearing
+match ban
+yellow card accumulation
+red card offense
+captaincy
+leadership
+locker room
+team spirit
+motivation
+training intensity
+press resistance
+ball retention
+possession play
+transition
+defensive shape
+attack
+counter
+link-up
+press conference
+club president
+director of football
+sporting director
+owner
+board
+chairman
+investment
+takeover
+ownership
+club finances
+sponsorship
+jersey
+kit
+home kit
+away kit
+third kit
+goalkeeper kit
+badge
+crest
+logo
+kit launch
+shirt sponsor
+stadium name
+training facility
+academy
+youth team
+u21
+u23
+reserve team
+women’s football
+womens super league
+wsl
+uwcl
+youth cup
+grassroots
+referee association
+fifa rankings
+fifa world rankings
+uefa coefficient
+uefa ranking
+fifa 24
+ea fc
+football manager
+pro clubs
+ultimate team
+career mode
+highlights
+reaction
+analysis
+player ratings
+match report
+line-up
+confirmed xi
+injury list
+medical report
+fitness update
+tactical analysis
+heat map
+possession map
+pressing stats
+expected assists
+big chance
+conversion rate
+goal probability
+momentum
+form
+streak
+winning streak
+unbeaten run
+losing streak
+clean sheet run
+home form
+away form
+record
+stats
+data
+analytics
+performance
+match review
+live coverage
+commentary
+breaking news
+latest news
+football news
+soccer updates
+transfer news
+match updates
+rumors
+gossip
+breaking
+exclusive
+insider
+tweet
+official
+confirmed signing
+done deal
+fabrizio romano
+here we go
+developing story
+sources
+agent talk
+training footage
+behind the scenes
+locker room footage
+vlog
+club media
+player interview
+team bus
+arrival
+warm up
+kick off
+half time
+full time
+match reaction
+fan reaction
+social media reaction
+fan chant
+crowd roar
+stadium tour
+training ground tour
+photo session
+goal celebration
+team huddle
+motm
+potm
+gotm
+dotm
+press release
+club announcement
+media day
+sponsorship deal
+partnership
+brand deal
+adidas
+nike
+puma
+umbro
+new balance
+macron
+hummel
+stadium expansion
+renovation
+attendance
+record crowd
+ticket sales
+season ticket
+away ticket
+fan zone
+supporters group
+club legend
+retirement
+farewell match
+testimonial match
+charity match
+benefit match
+legends game
+academy graduate
+homegrown
+youth prospect
+breakthrough
+debut
+first goal
+record signing
+club record
+transfer record
+net spend
+budget
+balance sheet
+financial fair play
+ffp
+points deduction
+appeal
+hearing
+sanction
+uefa investigation
+fifa investigation
+ethics committee
+corruption
+ban lifted
+appeal upheld
+fine issued
+disciplinary action
+legal case
+tribunal
+sport court
+casi
+tms
+work permit
+passport
+international clearance
+fifa registration
+player agent
+football agent
+sports lawyer
+sports director
+technical director
+assistant manager
+goalkeeping coach
+fitness coach
+nutritionist
+analyst
+data analyst
+video analyst
+scout
+chief scout
+recruitment
+talent ID
+academy scout
+transfer department
+medical team
+club doctor
+physio
+conditioning coach
+performance coach
+tactics coach
+team bus driver
+kit man
+media officer
+press officer
+stadium announcer
+photographer
+commentator
+pundit
+analyst
+studio guest
+tv rights
+broadcast deal
+streaming
+live stream
+match highlights
+goal compilation
+post-match show
+football podcast
+soccer show
+matchday vlog
+fan cam
+interview zone
+mixed zone
+press zone
+stadium tunnel
+dugout
+technical area
+touchline
+sideline
+goal line
+corner flag
+penalty area
+six yard box
+halfway line
+center circle
+kick off
+first half
+second half
+stoppage time
+added time
+sub bench
+substitute
+rotation
+rested player
+fixture congestion
+international window
+player fatigue
+travel
+flight
+hotel
+preparation
+training video
+club social media
+official account
+verified account
+football journalist
+football pundit
+sports anchor
+football analyst
+soccer editor
+football reporter
+sports writer
+football blog
+football website
+soccer news outlet
+club insider
+beat reporter
+post match quotes
+analysis thread
+match stats thread
+highlight clip
+injury update
+training pictures
+exclusive interview
+contract details
+wage
+salary
+weekly wages
+transfer fee
+loan fee
+sign-on bonus
+goal bonus
+appearance bonus
+performance bonus
+endorsement
+boot deal
+sponsorship
+brand ambassador
+commercial revenue
+shirt sales
+merch
+merchandise
+fan shop
+official store
